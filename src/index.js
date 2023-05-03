@@ -1,3 +1,5 @@
+import "./style.css";
+
 const arrayToDo = [
     {
         index: 1,
